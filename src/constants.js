@@ -153,8 +153,8 @@ export const SkillsInfo = [
       school: "Mahatma Gandhi Central University, Motihari",
       // date: "May 2022 - May 2026",
       // grade: "7.81 CGPA",
-      desc: "I have pursuing my Bachelor's degree (B.Tech) in Computer Science from Mahatma Gandhi Central University, Motihari. I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge.",
-      degree: "Bachelor in Conputer Science - B.Tech",
+      desc: "I have pursuing my Bachelor of Technology (B.Tech) in Computer Science from Mahatma Gandhi Central University, Motihari. I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge.",
+      degree: "Bachelor of Technology in Computer Science - B.Tech",
     },
     {
       id: 2,
